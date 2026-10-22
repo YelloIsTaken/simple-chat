@@ -1,5 +1,7 @@
 # simplechat
 
+THIS APP IS AI-GENERATED
+
 End-to-end encrypted terminal chat between two computers, with file transfer
 and encrypted history.
 
